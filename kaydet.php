@@ -123,5 +123,4 @@
 	}else{
 		Yonlendir::git("/");
 	}
-	
 ?>
